@@ -1,0 +1,1 @@
+This website was constructed as a part of the Berkeley Journalism School's J220 class. The recipe comes originally from NYT Cooking, with a few modifications. It's good.
